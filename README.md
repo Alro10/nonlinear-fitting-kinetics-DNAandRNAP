@@ -12,4 +12,8 @@ matplotlib >= 1.5.1
 ```
 ## Approach
 
+<p align="center">
+<img src="https://github.com/Alro10/nonlinear-fitting-kinectics-DNAandRNAP/blob/master/fx.png" alt="alt text" width="80%" height="80%">
+</p>
+
 ## Future work
