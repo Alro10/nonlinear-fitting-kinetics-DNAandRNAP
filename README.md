@@ -3,3 +3,9 @@ Nonlinear regression using to estimate kinetics constants of DNA promoter openin
 promoter contacts and transcription bubble collapse](https://www.researchgate.net/publication/263709791_Kinetics_of_promoter_escape_by_bacterial_RNA_polymerase_Effects_of_promoter_contacts_and_transcription_bubble_collapse)
 
 under developing!
+
+## Requirements
+
+## Approach
+
+## Future work
