@@ -11,6 +11,8 @@ scipy >= 1.2.1
 matplotlib >= 1.5.1
 ```
 ## Approach
+**What is a simple method to fit and estimate constants of that exponential function?**
+
 
 <p align="center">
 <img src="https://github.com/Alro10/nonlinear-fitting-kinectics-DNAandRNAP/blob/master/fitting.png" alt="alt text" width="80%" height="80%">
