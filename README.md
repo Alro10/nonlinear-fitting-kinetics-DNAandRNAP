@@ -6,9 +6,9 @@ under developing!
 
 ## Requirements
 ```
-numpy >=1.16.2
-scipy >= 1.2.1
-matplotlib >= 1.5.1
+numpy =1.16.2
+scipy = 1.2.1
+matplotlib = 1.5.1
 ```
 ## Approach
 **What is a simple method to fit and estimate constants of that exponential function?**
